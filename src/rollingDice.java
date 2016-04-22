@@ -49,6 +49,7 @@ public class rollingDice {
  			if (userAnswer2.equalsIgnoreCase("N"))
  			{userDice = false;}
 	}
+ 		
 	}
 	public static int diceRoll(int faces){
 		Random rand = new Random();
